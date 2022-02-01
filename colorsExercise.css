@@ -29,11 +29,17 @@ p {
 #one {
     color: hotpink;
 }
+/* li:first-child {
+    color: hotpink;
+} */
 #three {
     background-color: peachpuff;
 }
-.li {
+/* .li {
     border-width: 5px;
     border-style: solid;
     border-color: green;
+} */
+.li {
+    border: solid 5px green;
 }
