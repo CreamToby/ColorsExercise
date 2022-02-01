@@ -1,0 +1,39 @@
+h1 {
+    color: #ffffff;
+    background-color: rgb(255, 100, 100);
+}
+h2 {
+    color: darkslategray;
+    background-color: orange;
+}
+h3 {
+    color: #a9b80a;
+    background-color: rgb(240, 210, 10);
+}
+h4 {
+    color: rgba(50, 150, 255, 0.8);
+    background-color: #00ff00ff;
+}
+h5 {
+    color: rgb(154, 151, 155);
+    background-color: #00f;
+}
+h6 {
+    color: #fd0;
+    background-color: rgba(50, 150, 255, 0.8);
+}
+p {
+    color: #049f;
+    background-color: #aa00ff;
+}
+#one {
+    color: hotpink;
+}
+#three {
+    background-color: peachpuff;
+}
+.li {
+    border-width: 5px;
+    border-style: solid;
+    border-color: green;
+}
